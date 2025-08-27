@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "DynamicTheming"
-include(":app")
+include(":xml")
